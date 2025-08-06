@@ -3,7 +3,7 @@
 This is a **demo version** of the Auto Job Finder bot – a lightweight Streamlit web app that helps you search for remote jobs instantly based on your preferences.
 
 🔗 **Full Version with Resume Upload & Auto-Apply Feature**:  
-[👉 Get it on Gumroad ($12)](https://janjua288.gumroad.com/l/hbvua)
+[👉 Get it on Gumroad ($11.99)](https://janjua288.gumroad.com/l/bemmf)
 
 ---
 
