@@ -13,14 +13,7 @@ This is a **demo version** of the Auto Job Finder bot – a lightweight Streamli
 - 🌐 Fetches real-time jobs from **Remotive API**
 - 🧪 Built using **Python + Streamlit**
 - 🎯 Easy to deploy & customize
-
----
-
-## 📸 Demo Preview
-
-![Demo Screenshot](https://via.placeholder.com/800x400.png?text=Auto+Job+Finder+Demo+Preview)
-
----
+  
 
 ## 🛠️ Installation
 
